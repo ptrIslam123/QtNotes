@@ -3,3 +3,4 @@
 *.o
 build/
 cmake-debug-build/
+app
